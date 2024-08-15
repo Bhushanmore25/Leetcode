@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhushanmore25/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
 ## Trie
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Bhushanmore25/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhushanmore25/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhushanmore25/Leetcode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/Bhushanmore25/Leetcode/tree/master/0890-lemonade-change) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
