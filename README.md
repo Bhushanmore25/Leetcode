@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhushanmore25/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bhushanmore25/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Bhushanmore25/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhushanmore25/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bhushanmore25/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Bhushanmore25/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhushanmore25/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhushanmore25/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bhushanmore25/Leetcode/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0264-ugly-number-ii) |
 ## Binary Search
 |  |
