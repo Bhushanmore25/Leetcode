@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhushanmore25/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1610-xor-operation-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Bhushanmore25/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1610-xor-operation-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Bhushanmore25/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
