@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Bhushanmore25/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Bhushanmore25/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Bhushanmore25/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Bhushanmore25/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Bhushanmore25/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhushanmore25/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -227,5 +228,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Bhushanmore25/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
