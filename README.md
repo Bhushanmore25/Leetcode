@@ -224,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
