@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Bhushanmore25/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -129,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Bhushanmore25/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhushanmore25/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhushanmore25/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhushanmore25/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
