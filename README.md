@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Bhushanmore25/Leetcode/tree/master/0890-lemonade-change) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bhushanmore25/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Bhushanmore25/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1185-find-in-mountain-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Bhushanmore25/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhushanmore25/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1185-find-in-mountain-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sorting
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bhushanmore25/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
