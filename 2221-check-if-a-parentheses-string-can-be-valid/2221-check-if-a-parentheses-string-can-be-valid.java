@@ -1,25 +1,25 @@
 class Solution {
     public boolean canBeValid(String s, String locked) {
         if((s.length() & 1) == 1) return false;
-        int cmin = 0, cmax = 0;
+        int count1 = 0, count2 = 0;
         for(int i = 0; i < s.length(); i++) {
             if(locked.charAt(i) == '0') {
-                cmin--;
-                cmax++;
+                count1--;
+                count2++;
             }
             else {
                 if(s.charAt(i) == '(') {
-                    cmax++;
-                    cmin++;
+                    count1++;
+                    count2++;
                 }
                 else {
-                    cmax--;
-                    cmin--;
+                    count2--;
+                    count1--;
                 }
             }
-            if(cmax < 0) return false;
-            cmin = Math.max(cmin, 0);
+            if(count2 < 0) return false;
+            count1 = Math.max(count1, 0);
         }
-        return cmin == 0;
+        return count1 == 0;
     }
 }
