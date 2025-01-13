@@ -1,12 +1,19 @@
 class Solution {
     public int minimumLength(String s) {
-        int[] freq = new int[26];
-        for(byte c: s.getBytes()) freq[c - 'a']++;
-        int res = 0;
-        for(int i: freq) {
-            if (i == 0) continue;
-            res += (i & 1 ^ 1) << 1 | i & 1;
+        int[] charFrequency = new int[26];
+        int totalLength = 0;
+
+        for (char currentChar : s.toCharArray()) {
+            charFrequency[currentChar - 'a']++;
         }
-        return res;
+        for (int frequency : charFrequency) {
+            if (frequency == 0) continue; 
+            if (frequency % 2 == 0) {
+                totalLength += 2;
+            } else {
+                totalLength += 1;
+            }
+        }
+        return totalLength;
     }
 }
