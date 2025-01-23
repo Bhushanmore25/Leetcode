@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Bhushanmore25/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Bhushanmore25/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhushanmore25/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhushanmore25/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bhushanmore25/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhushanmore25/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Bhushanmore25/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Bhushanmore25/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Bhushanmore25/Leetcode/tree/master/2145-grid-game) |
@@ -392,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
