@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Bhushanmore25/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Bhushanmore25/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
