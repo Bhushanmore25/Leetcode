@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0494-target-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0854-making-a-large-island](https://github.com/Bhushanmore25/Leetcode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/Bhushanmore25/Leetcode/tree/master/0890-lemonade-change) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Bhushanmore25/Leetcode/tree/master/0383-ransom-note) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0952-word-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Bhushanmore25/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Bhushanmore25/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhushanmore25/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1185-find-in-mountain-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Bhushanmore25/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
