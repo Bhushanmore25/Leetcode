@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Bhushanmore25/Leetcode/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhushanmore25/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1304-longest-happy-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Bhushanmore25/Leetcode/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Bhushanmore25/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhushanmore25/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Bhushanmore25/Leetcode/tree/master/0383-ransom-note) |
 | [1364-tuple-with-same-product](https://github.com/Bhushanmore25/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
