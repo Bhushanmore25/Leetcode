@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Bhushanmore25/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Bhushanmore25/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Bhushanmore25/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Hash Function
 |  |
 | ------- |
