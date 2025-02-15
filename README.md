@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Bhushanmore25/Leetcode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Bhushanmore25/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhushanmore25/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhushanmore25/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Bhushanmore25/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Bhushanmore25/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhushanmore25/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Bhushanmore25/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2434-design-a-number-container-system](https://github.com/Bhushanmore25/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhushanmore25/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Bhushanmore25/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
