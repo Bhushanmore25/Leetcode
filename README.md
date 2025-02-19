@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bhushanmore25/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3779-eat-pizzas](https://github.com/Bhushanmore25/Leetcode/tree/master/3779-eat-pizzas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/Bhushanmore25/Leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3779-eat-pizzas](https://github.com/Bhushanmore25/Leetcode/tree/master/3779-eat-pizzas) |
 ## Simulation
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3779-eat-pizzas](https://github.com/Bhushanmore25/Leetcode/tree/master/3779-eat-pizzas) |
 ## Bit Manipulation
 |  |
 | ------- |
