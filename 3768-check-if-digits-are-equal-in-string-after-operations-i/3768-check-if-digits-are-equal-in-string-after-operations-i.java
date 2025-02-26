@@ -1,19 +1,19 @@
 class Solution {
     public boolean hasSameDigits(String s) {
-        // int n=s.length();
-        StringBuilder str=new StringBuilder(s);
-        while(str.length()>2)
-        {
-            StringBuilder str2=new StringBuilder();
-            int n=str.length();
-            for(int i=0;i<n-1;i++)
-            {
-                int x=((str.charAt(i)-'0')+(str.charAt(i+1)-'0'))%10;
-                str2.append(x);
-            }
-            str=str2;
+        int n = s.length();
+
+        int chs[] = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            chs[i] = s.charAt(i) - '0';
         }
-        if(str.charAt(0)==str.charAt(1)) return true;
-        return false;
+
+        for (int i = 0; i < n - 2; i++) {
+            for (int j = 1; j < n - i; j++) {
+                chs[j - 1] = (chs[j - 1] + chs[j]) % 10;
+            }
+        }
+
+        return chs[0] == chs[1];
     }
 }
