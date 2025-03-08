@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-min-cost-climbing-stairs](https://github.com/Bhushanmore25/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhushanmore25/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Bhushanmore25/Leetcode/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-min-cost-climbing-stairs](https://github.com/Bhushanmore25/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bhushanmore25/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
