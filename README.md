@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bhushanmore25/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Bhushanmore25/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1086-divisor-game](https://github.com/Bhushanmore25/Leetcode/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/Bhushanmore25/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1013-fibonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Bhushanmore25/Leetcode/tree/master/1086-divisor-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/Bhushanmore25/Leetcode/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bhushanmore25/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Graph
 |  |
@@ -698,4 +701,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1013-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Bhushanmore25/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
