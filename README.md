@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Bhushanmore25/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Bhushanmore25/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Bhushanmore25/Leetcode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Bhushanmore25/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhushanmore25/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhushanmore25/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bhushanmore25/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Bhushanmore25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Bhushanmore25/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Bhushanmore25/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
