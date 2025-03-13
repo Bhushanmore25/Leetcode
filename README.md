@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Bhushanmore25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Bhushanmore25/Leetcode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhushanmore25/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Bhushanmore25/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Bhushanmore25/Leetcode/tree/master/0164-maximum-gap) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Bhushanmore25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Bhushanmore25/Leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Bhushanmore25/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Bhushanmore25/Leetcode/tree/master/0322-coin-change) |
