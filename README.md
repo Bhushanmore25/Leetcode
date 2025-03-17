@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Bhushanmore25/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Bhushanmore25/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Bhushanmore25/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhushanmore25/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhushanmore25/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhushanmore25/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Bhushanmore25/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Bhushanmore25/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhushanmore25/Leetcode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Bhushanmore25/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Bhushanmore25/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
