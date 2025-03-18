@@ -2,17 +2,22 @@ class Solution {
     public int longestNiceSubarray(int[] nums) {
         int n = nums.length;
         int maxLength = 1;
-        int left = 0;
-        int usedBits = 0;
+        int left = 0,right=0;
+        int cursum = 0;
+        int xorsum = 0;
         
-        for (int right = 0; right < n; right++) {
-            while ((usedBits & nums[right]) != 0) {
-                usedBits ^= nums[left];
+        while(right<n)
+        {
+            cursum+=nums[right];
+            xorsum^=nums[right];
+            while(cursum!=xorsum)
+            {
+                cursum-=nums[left];
+                xorsum^=nums[left];
                 left++;
             }
-            
-            usedBits |= nums[right];
-            maxLength = Math.max(maxLength, right - left + 1);
+            maxLength=Math.max(maxLength,right-left+1);
+            right++;
         }
         
         return maxLength;
