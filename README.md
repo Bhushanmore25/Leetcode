@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Bhushanmore25/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhushanmore25/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhushanmore25/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0147-insertion-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
