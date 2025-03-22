@@ -1,15 +1,26 @@
 class Solution {
     public int minOperations(int[] nums, int x) {
-	int sum = 0;
-	for (int num: nums) sum += num;
+        int totalSum = 0;
+        for (int num : nums) totalSum += num;
 
-	int maxLength = -1, currSum = 0;
-	for (int l=0, r=0; r<nums.length; r++) {
-		currSum += nums[r];
-		while (l <= r && currSum > sum - x) currSum -= nums[l++];
-		if (currSum == sum - x) maxLength = Math.max(maxLength, r-l+1);
-	}
+        int target = totalSum - x;
+        if (target < 0) return -1; 
+        if (target == 0) return nums.length; 
 
-	return maxLength == -1 ? -1 : nums.length - maxLength;
-}
+        int left = 0, currentSum = 0, maxLen = -1;
+
+        for (int right = 0; right < nums.length; right++) {
+            currentSum += nums[right];
+
+            while (left <= right && currentSum > target) {
+                currentSum -= nums[left++];
+            }
+
+            if (currentSum == target) {
+                maxLen = Math.max(maxLen, right - left + 1);
+            }
+        }
+
+        return (maxLen == -1) ? -1 : nums.length - maxLen;
+    }
 }
