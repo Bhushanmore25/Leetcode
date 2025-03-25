@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1168-duplicate-zeros](https://github.com/Bhushanmore25/Leetcode/tree/master/1168-duplicate-zeros) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhushanmore25/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhushanmore25/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Bhushanmore25/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhushanmore25/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhushanmore25/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Bhushanmore25/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
