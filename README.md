@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Bhushanmore25/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2833-count-zero-request-servers](https://github.com/Bhushanmore25/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Bhushanmore25/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Bhushanmore25/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Bhushanmore25/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhushanmore25/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2833-count-zero-request-servers](https://github.com/Bhushanmore25/Leetcode/tree/master/2833-count-zero-request-servers) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Bhushanmore25/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhushanmore25/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2833-count-zero-request-servers](https://github.com/Bhushanmore25/Leetcode/tree/master/2833-count-zero-request-servers) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Bhushanmore25/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Bhushanmore25/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Bhushanmore25/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
