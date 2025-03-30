@@ -1,29 +1,23 @@
 class Solution {
-    public List<Integer> partitionLabels(String s) {
-        List<Integer> ans=new ArrayList<>();
-        int[] freq=new int[26];
-        for(int i=0;i<s.length();i++)
-        {
-            freq[s.charAt(i)-'a']=i;
-        }
-        int l=0,r=0,n=s.length(),prev=0;
-        int first=0;
-        while(r<n)
-        {
-            r=freq[s.charAt(r)-'a'];
-            first++;
-            while(l<r)
-            {
-                r=Math.max(r,freq[s.charAt(l)-'a']);
-                l++;
-            }
-            if(first==1)
-            ans.add(r-prev+1);
-            else
-            ans.add(r-prev);
+  public List<Integer> partitionLabels(String s) {
+    char[] str = s.toCharArray();
 
-            prev=r++;
-        }
-        return ans;
+    int[] lastSeen = new int[26];
+    for(int i = 0; i < str.length; i++) {
+      lastSeen[str[i] - 'a'] = i;
     }
+
+    int left = 0, right = 0, prev = 0;
+    List<Integer> result = new LinkedList<>();
+    while(left < str.length) {
+      right = lastSeen[str[left] - 'a'];
+      while(left <= right) {
+        right = Math.max(right, lastSeen[str[left] - 'a']);
+        left++;
+      }
+      result.add(right+1-prev);
+      prev = right+1;
+    }
+    return result;
+  }
 }
