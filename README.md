@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhushanmore25/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2833-count-zero-request-servers](https://github.com/Bhushanmore25/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bhushanmore25/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhushanmore25/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
