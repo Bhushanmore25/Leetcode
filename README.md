@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Bhushanmore25/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Bhushanmore25/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhushanmore25/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0494-target-sum) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Bhushanmore25/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Bhushanmore25/Leetcode/tree/master/0397-integer-replacement) |
+| [0416-partition-equal-subset-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
