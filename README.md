@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bhushanmore25/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Bhushanmore25/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Bhushanmore25/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Bhushanmore25/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/3447-clear-digits) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Bhushanmore25/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bhushanmore25/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Bhushanmore25/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Bhushanmore25/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Bhushanmore25/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
 |  |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Bhushanmore25/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2725-mice-and-cheese](https://github.com/Bhushanmore25/Leetcode/tree/master/2725-mice-and-cheese) |
 | [2756-buy-two-chocolates](https://github.com/Bhushanmore25/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Bhushanmore25/Leetcode/tree/master/3779-eat-pizzas) |
