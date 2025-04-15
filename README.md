@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhushanmore25/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhushanmore25/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhushanmore25/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Bhushanmore25/Leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhushanmore25/Leetcode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhushanmore25/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bhushanmore25/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhushanmore25/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Bhushanmore25/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -808,10 +812,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
@@ -974,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Bhushanmore25/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
