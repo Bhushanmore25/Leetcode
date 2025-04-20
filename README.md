@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Bhushanmore25/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhushanmore25/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Bhushanmore25/Leetcode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Bhushanmore25/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0854-making-a-large-island](https://github.com/Bhushanmore25/Leetcode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/Bhushanmore25/Leetcode/tree/master/0890-lemonade-change) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Bhushanmore25/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/Bhushanmore25/Leetcode/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/Bhushanmore25/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Bhushanmore25/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Bhushanmore25/Leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Bhushanmore25/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Bhushanmore25/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Bhushanmore25/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhushanmore25/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/Bhushanmore25/Leetcode/tree/master/1252-break-a-palindrome) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Bhushanmore25/Leetcode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Bhushanmore25/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Bhushanmore25/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
