@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Bhushanmore25/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Bhushanmore25/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Bhushanmore25/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Bhushanmore25/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhushanmore25/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhushanmore25/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Bhushanmore25/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhushanmore25/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bhushanmore25/Leetcode/tree/master/0062-unique-paths) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhushanmore25/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Bhushanmore25/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhushanmore25/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Bhushanmore25/Leetcode/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/2050-count-good-numbers) |
