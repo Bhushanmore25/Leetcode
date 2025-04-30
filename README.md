@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Bhushanmore25/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Bhushanmore25/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Bhushanmore25/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Bhushanmore25/Leetcode/tree/master/1500-count-largest-group) |
