@@ -1,11 +1,9 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int count=0;
-        for(int i:nums)
-        {
-            String s=String.valueOf(i);
-            if(s.length()%2==0) count++;
+        int result = 0;
+        for (int number: nums) {
+            if ((number > 9 && number < 100) || (number > 999 && number < 10000) || (number == 100000)) result++;
         }
-        return count;
+        return result;
     }
 }
