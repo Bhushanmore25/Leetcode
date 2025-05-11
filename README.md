@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Bhushanmore25/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1185-find-in-mountain-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Bhushanmore25/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhushanmore25/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bhushanmore25/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
