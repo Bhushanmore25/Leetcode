@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bhushanmore25/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Bhushanmore25/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Bhushanmore25/Leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Bhushanmore25/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Bhushanmore25/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Bhushanmore25/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Bhushanmore25/Leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Bhushanmore25/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Bhushanmore25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0119-pascals-triangle-ii) |
