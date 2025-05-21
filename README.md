@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bhushanmore25/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Bhushanmore25/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/Bhushanmore25/Leetcode/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Bhushanmore25/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Bhushanmore25/Leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Bhushanmore25/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Bhushanmore25/Leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1160,4 +1162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Bhushanmore25/Leetcode/tree/master/2083-three-divisors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Bhushanmore25/Leetcode/tree/master/2998-count-symmetric-integers) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Bhushanmore25/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
