@@ -1,7 +1,7 @@
 class Solution {
     public int findKthNumber(int n, int k) {
         long curr = 1;
-        k -= 1; // we already include 1 in our result
+        k -= 1; 
 
         while (k > 0) {
             long count = getCount(curr, n);
