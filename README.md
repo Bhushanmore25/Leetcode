@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bhushanmore25/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Bhushanmore25/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Bhushanmore25/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Bhushanmore25/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Bhushanmore25/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhushanmore25/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Bhushanmore25/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Bhushanmore25/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2725-mice-and-cheese](https://github.com/Bhushanmore25/Leetcode/tree/master/2725-mice-and-cheese) |
 | [2756-buy-two-chocolates](https://github.com/Bhushanmore25/Leetcode/tree/master/2756-buy-two-chocolates) |
