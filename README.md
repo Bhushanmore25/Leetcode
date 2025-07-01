@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhushanmore25/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhushanmore25/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0142-linked-list-cycle-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Bhushanmore25/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Bhushanmore25/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/Bhushanmore25/Leetcode/tree/master/0133-clone-graph) |
+| [0142-linked-list-cycle-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Bhushanmore25/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhushanmore25/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0219-contains-duplicate-ii) |
