@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3905-partition-string](https://github.com/Bhushanmore25/Leetcode/tree/master/3905-partition-string) |
 ## Trie
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Bhushanmore25/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0808-number-of-matching-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [3905-partition-string](https://github.com/Bhushanmore25/Leetcode/tree/master/3905-partition-string) |
 ## Array
 |  |
 | ------- |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/3447-clear-digits) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3905-partition-string](https://github.com/Bhushanmore25/Leetcode/tree/master/3905-partition-string) |
 ## Linked List
 |  |
 | ------- |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/Bhushanmore25/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3905-partition-string](https://github.com/Bhushanmore25/Leetcode/tree/master/3905-partition-string) |
 ## Binary Search
 |  |
 | ------- |
