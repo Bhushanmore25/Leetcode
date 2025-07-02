@@ -4,11 +4,12 @@ class Solution {
         int[] dp=new int[n+1];
         for(int i=0;i<n;i++)
         {
-            if(i<2) dp[i]=cost[i];
-            else{
-                dp[i] = cost[i] + Math.min(dp[i-1],dp[i-2]);
+            if(i<2) dp[i+1]=cost[i];
+            else
+            {
+                dp[i+1]=Math.min(dp[i]+cost[i],dp[i-1]+cost[i]);
             }
         }
-        return Math.min(dp[n-1],dp[n-2]);
+        return Math.min(dp[n],dp[n-1]);
     }
 }
