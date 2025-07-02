@@ -3,14 +3,14 @@ class Solution {
         if(n==0) return 0;
         if(n==1) return 1;
         if(n==2) return 1;
-        int[] ar=new int[n+1];
-        ar[0]=0;
-        ar[1]=1;
-        ar[2]=1;
+        int[] a=new int[n+1];
+        a[0]=0;
+        a[1]=1;
+        a[2]=1;
         for(int i=3;i<=n;i++)
         {
-            ar[i]=ar[i-1]+ar[i-2]+ar[i-3];
+            a[i]=a[i-1]+a[i-2]+a[i-3];
         }
-        return ar[n];
+        return a[n];
     }
 }
