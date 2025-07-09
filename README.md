@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Bhushanmore25/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Bhushanmore25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/Bhushanmore25/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Bhushanmore25/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/Bhushanmore25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/Bhushanmore25/Leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Bhushanmore25/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Bhushanmore25/Leetcode/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhushanmore25/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Bhushanmore25/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bhushanmore25/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
