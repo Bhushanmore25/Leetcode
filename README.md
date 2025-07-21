@@ -870,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Bhushanmore25/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Bhushanmore25/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Bhushanmore25/Leetcode/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Bhushanmore25/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhushanmore25/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Bhushanmore25/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Bhushanmore25/Leetcode/tree/master/0854-making-a-large-island) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Bhushanmore25/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Bhushanmore25/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bhushanmore25/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Bhushanmore25/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1012,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Bhushanmore25/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Bhushanmore25/Leetcode/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Bhushanmore25/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhushanmore25/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Bhushanmore25/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Bhushanmore25/Leetcode/tree/master/0854-making-a-large-island) |
