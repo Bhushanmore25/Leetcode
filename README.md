@@ -865,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Bhushanmore25/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhushanmore25/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhushanmore25/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Bhushanmore25/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Bhushanmore25/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhushanmore25/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhushanmore25/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Bhushanmore25/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Bhushanmore25/Leetcode/tree/master/0684-redundant-connection) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Bhushanmore25/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhushanmore25/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhushanmore25/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Bhushanmore25/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -982,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhushanmore25/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Bhushanmore25/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -1004,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhushanmore25/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhushanmore25/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Bhushanmore25/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/Bhushanmore25/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Bhushanmore25/Leetcode/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
