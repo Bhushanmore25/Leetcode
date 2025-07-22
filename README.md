@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Bhushanmore25/Leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Bhushanmore25/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bhushanmore25/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Bhushanmore25/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bhushanmore25/Leetcode/tree/master/0057-insert-interval) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Bhushanmore25/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Bhushanmore25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Bhushanmore25/Leetcode/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhushanmore25/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bhushanmore25/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Bhushanmore25/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Bhushanmore25/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bhushanmore25/Leetcode/tree/master/0074-search-a-2d-matrix) |
