@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Bhushanmore25/Leetcode/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhushanmore25/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Bhushanmore25/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Bhushanmore25/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bhushanmore25/Leetcode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Bhushanmore25/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhushanmore25/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Bhushanmore25/Leetcode/tree/master/0820-find-eventual-safe-states) |
