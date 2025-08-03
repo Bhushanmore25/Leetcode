@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhushanmore25/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhushanmore25/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/Bhushanmore25/Leetcode/tree/master/0342-power-of-four) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Bhushanmore25/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Bhushanmore25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Bhushanmore25/Leetcode/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhushanmore25/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1350,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Bhushanmore25/Leetcode/tree/master/2083-three-divisors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bhushanmore25/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
