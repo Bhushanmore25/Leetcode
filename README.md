@@ -971,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Bhushanmore25/Leetcode/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Bhushanmore25/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhushanmore25/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -1077,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Bhushanmore25/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Bhushanmore25/Leetcode/tree/master/0854-making-a-large-island) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Bhushanmore25/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhushanmore25/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -1244,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Bhushanmore25/Leetcode/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhushanmore25/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Bhushanmore25/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Bhushanmore25/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Bhushanmore25/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhushanmore25/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
