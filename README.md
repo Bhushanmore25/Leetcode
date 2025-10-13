@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/Bhushanmore25/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1304-longest-happy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhushanmore25/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Bhushanmore25/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhushanmore25/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhushanmore25/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bhushanmore25/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhushanmore25/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Bhushanmore25/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1364-tuple-with-same-product](https://github.com/Bhushanmore25/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhushanmore25/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhushanmore25/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhushanmore25/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Bhushanmore25/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhushanmore25/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0808-number-of-matching-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1306-minimum-absolute-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhushanmore25/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhushanmore25/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhushanmore25/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
