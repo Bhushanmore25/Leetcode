@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhushanmore25/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhushanmore25/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhushanmore25/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhushanmore25/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bhushanmore25/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhushanmore25/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/Bhushanmore25/Leetcode/tree/master/2401-count-asterisks) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhushanmore25/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhushanmore25/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhushanmore25/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-destroying-asteroids](https://github.com/Bhushanmore25/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2249-count-the-hidden-sequences](https://github.com/Bhushanmore25/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Bhushanmore25/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/Bhushanmore25/Leetcode/tree/master/2083-three-divisors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhushanmore25/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bhushanmore25/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1297,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Bhushanmore25/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Bhushanmore25/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhushanmore25/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhushanmore25/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bhushanmore25/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
