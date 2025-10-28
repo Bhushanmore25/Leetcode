@@ -13,26 +13,21 @@ class Solution {
                     st.pop();
                     int sum = 1;
 
-                    // merge any valid substring inside
                     while (!stnum.isEmpty() && stnum.peek() != 1 && stnum.peek() != -1)
                         sum += stnum.pop();
 
-                    // pop its '(' marker
                     if (!stnum.isEmpty() && stnum.peek() == 1)
                         stnum.pop();
 
-                    // count this new pair
                     sum += 1;
                     stnum.push(sum);
 
-                    // merge consecutive valid blocks
                     int merged = 0;
                     while (!stnum.isEmpty() && stnum.peek() != 1 && stnum.peek() != -1)
                         merged += stnum.pop();
                     stnum.push(merged);
                 } 
                 else {
-                    // unmatched ')', reset stacks
                     st.clear();
                     stnum.push(-1);
                 }
