@@ -7,7 +7,8 @@ class Solution {
             int ways=0;
             for(int j=0;j<nums.length;j++)
             {
-                if(i>=nums[j] && dp[i-nums[j]]!=0)
+                // if(i>=nums[j] && dp[i-nums[j]]!=0)
+                if(i>=nums[j] )
                     ways+= dp[i-nums[j]];
             }
             dp[i]=ways;
