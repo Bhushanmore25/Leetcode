@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhushanmore25/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Bhushanmore25/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1764-maximum-repeating-substring](https://github.com/Bhushanmore25/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bhushanmore25/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Bhushanmore25/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Bhushanmore25/Leetcode/tree/master/0397-integer-replacement) |
 | [1610-xor-operation-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhushanmore25/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1431,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Bhushanmore25/Leetcode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Game Theory
 |  |
 | ------- |
