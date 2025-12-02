@@ -1,34 +1,28 @@
 class Solution {
-
     static final int MOD = 1_000_000_007;
-
     public int countTrapezoids(int[][] points) {
-        Map<Integer, Integer> horizontalLevels = new HashMap<>();
-
-        for (int[] p : points) {
-            int y = p[1];
-            horizontalLevels.put(y, horizontalLevels.getOrDefault(y, 0) + 1);
+        Map<Integer,Integer> map=new HashMap<>();
+        for(int i[]:points)
+        {
+            map.put(i[1],map.getOrDefault(i[1],0)+1);
         }
-
-        List<Long> combinations = new ArrayList<>();
-        for (int count : horizontalLevels.values()) {
-            if (count >= 2) {
-                long pairs = ((long) count * (count - 1) / 2) % MOD;
-                combinations.add(pairs);
+        List<Long> li=new ArrayList<>();
+        long sum=0;
+        for (int cnt : map.values()) {
+            if (cnt > 1) {
+                long val = (long) cnt * (cnt - 1) / 2 % MOD; 
+                li.add(val);
+                sum = (sum + val) % MOD;
             }
         }
+        int n = li.size();
+        long ans = 0;
 
-        long cumulative = 0;
-        for (long val : combinations) {
-            cumulative = (cumulative + val) % MOD;
+        for (long x : li) {
+            sum = (sum - x + MOD) % MOD; 
+            ans = (ans + x * sum) % MOD; 
         }
 
-        long trapezoidCount = 0;
-        for (long val : combinations) {
-            cumulative = (cumulative - val + MOD) % MOD;
-            trapezoidCount = (trapezoidCount + (val * cumulative) % MOD) % MOD;
-        }
-
-        return (int) trapezoidCount;
+        return (int) ans;
     }
-}
+}  
