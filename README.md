@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhushanmore25/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Bhushanmore25/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Bhushanmore25/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Bhushanmore25/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Bhushanmore25/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhushanmore25/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhushanmore25/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Bhushanmore25/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -1448,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Bhushanmore25/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Bhushanmore25/Leetcode/tree/master/2083-three-divisors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1474,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Bhushanmore25/Leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Bhushanmore25/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhushanmore25/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Bhushanmore25/Leetcode/tree/master/2083-three-divisors) |
