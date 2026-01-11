@@ -8,7 +8,6 @@ class Solution {
         int maxArea = 0;
 
         for (int i = 0; i < m; i++) {
-            // Build histogram
             for (int j = 0; j < n; j++) {
                 if (matrix[i][j] == '1')
                     heights[j] += 1;
