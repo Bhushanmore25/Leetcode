@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Bhushanmore25/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Bhushanmore25/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhushanmore25/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/Bhushanmore25/Leetcode/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhushanmore25/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1310,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhushanmore25/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/Bhushanmore25/Leetcode/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Bhushanmore25/Leetcode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/Bhushanmore25/Leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -1414,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Bhushanmore25/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Bhushanmore25/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/Bhushanmore25/Leetcode/tree/master/1895-largest-magic-square) |
 | [2145-grid-game](https://github.com/Bhushanmore25/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhushanmore25/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
