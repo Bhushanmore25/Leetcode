@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Bhushanmore25/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bhushanmore25/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Bhushanmore25/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1764-maximum-repeating-substring](https://github.com/Bhushanmore25/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhushanmore25/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1568,4 +1571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Bhushanmore25/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
