@@ -5,7 +5,6 @@ class Solution {
         for(int i=0;i<letters.length;i++)
         {
             int val=letters[i]-target;
-            System.out.println(val);
             if(val<dist || val>0)
             {
                 return letters[i];
