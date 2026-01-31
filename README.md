@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhushanmore25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bhushanmore25/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Bhushanmore25/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhushanmore25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/Bhushanmore25/Leetcode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Bhushanmore25/Leetcode/tree/master/0768-partition-labels) |
@@ -1323,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bhushanmore25/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhushanmore25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
