@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Bhushanmore25/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Bhushanmore25/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3713-longest-balanced-substring-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3750-closest-equal-element-queries](https://github.com/Bhushanmore25/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1395,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Brainteaser
@@ -1584,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Bhushanmore25/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Counting Sort
 |  |
