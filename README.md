@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Bhushanmore25/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Bhushanmore25/Leetcode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Bhushanmore25/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Bhushanmore25/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Bhushanmore25/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Bhushanmore25/Leetcode/tree/master/0091-decode-ways) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bhushanmore25/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Bhushanmore25/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Bhushanmore25/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Bhushanmore25/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Bhushanmore25/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhushanmore25/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0202-happy-number) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Bhushanmore25/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Bhushanmore25/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Bhushanmore25/Leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Bhushanmore25/Leetcode/tree/master/0412-fizz-buzz) |
@@ -983,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhushanmore25/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Bhushanmore25/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
