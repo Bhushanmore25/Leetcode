@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Bhushanmore25/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/Bhushanmore25/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3750-closest-equal-element-queries](https://github.com/Bhushanmore25/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 ## Interactive
 |  |
 | ------- |
