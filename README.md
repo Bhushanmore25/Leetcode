@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Bhushanmore25/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bhushanmore25/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2463-minimum-total-distance-traveled](https://github.com/Bhushanmore25/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-shifting-letters-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Bhushanmore25/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Bhushanmore25/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/Bhushanmore25/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2601-number-of-great-partitions](https://github.com/Bhushanmore25/Leetcode/tree/master/2601-number-of-great-partitions) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Bhushanmore25/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Bhushanmore25/Leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhushanmore25/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/Bhushanmore25/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhushanmore25/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
