@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Bhushanmore25/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3905-partition-string](https://github.com/Bhushanmore25/Leetcode/tree/master/3905-partition-string) |
 ## Trie
 |  |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3779-eat-pizzas](https://github.com/Bhushanmore25/Leetcode/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhushanmore25/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Bhushanmore25/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Two Pointers
 |  |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Bhushanmore25/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3905-partition-string](https://github.com/Bhushanmore25/Leetcode/tree/master/3905-partition-string) |
 ## Linked List
 |  |
