@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Bhushanmore25/Leetcode/tree/master/0868-push-dominoes) |
 | [1168-duplicate-zeros](https://github.com/Bhushanmore25/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhushanmore25/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Bhushanmore25/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhushanmore25/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhushanmore25/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
