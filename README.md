@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Bhushanmore25/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Bhushanmore25/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Bhushanmore25/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bhushanmore25/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3453-separate-squares-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3453-separate-squares-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bhushanmore25/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3643-zero-array-transformation-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -1719,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhushanmore25/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhushanmore25/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Bhushanmore25/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Doubly-Linked List
 |  |
@@ -1728,4 +1732,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhushanmore25/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
