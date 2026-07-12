@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Bhushanmore25/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhushanmore25/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bhushanmore25/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhushanmore25/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhushanmore25/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhushanmore25/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhushanmore25/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhushanmore25/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/Bhushanmore25/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Bhushanmore25/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhushanmore25/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhushanmore25/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
