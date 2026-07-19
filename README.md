@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhushanmore25/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/Bhushanmore25/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhushanmore25/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Bhushanmore25/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhushanmore25/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhushanmore25/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Bhushanmore25/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Bhushanmore25/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhushanmore25/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bhushanmore25/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/Bhushanmore25/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1304-longest-happy-string) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Bhushanmore25/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
