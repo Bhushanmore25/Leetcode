@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Bhushanmore25/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3912-valid-elements-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3912-valid-elements-in-an-array) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Bhushanmore25/Leetcode/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhushanmore25/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Simulation
 |  |
 | ------- |
