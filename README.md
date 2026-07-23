@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Bhushanmore25/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3905-partition-string](https://github.com/Bhushanmore25/Leetcode/tree/master/3905-partition-string) |
+| [3913-sort-vowels-by-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Bhushanmore25/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Bhushanmore25/Leetcode/tree/master/3779-eat-pizzas) |
+| [3913-sort-vowels-by-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1510,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3913-sort-vowels-by-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Brainteaser
 |  |
 | ------- |
