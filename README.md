@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Bhushanmore25/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3853-merge-close-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/3853-merge-close-characters) |
 | [3856-trim-trailing-vowels](https://github.com/Bhushanmore25/Leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3905-partition-string](https://github.com/Bhushanmore25/Leetcode/tree/master/3905-partition-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhushanmore25/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Bhushanmore25/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3853-merge-close-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/3853-merge-close-characters) |
 | [3905-partition-string](https://github.com/Bhushanmore25/Leetcode/tree/master/3905-partition-string) |
 ## Binary Search
 |  |
