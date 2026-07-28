@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Bhushanmore25/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3912-valid-elements-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Bhushanmore25/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Bhushanmore25/Leetcode/tree/master/3779-eat-pizzas) |
 | [3913-sort-vowels-by-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Bhushanmore25/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Bit Manipulation
 |  |
 | ------- |
