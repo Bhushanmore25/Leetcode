@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3856-trim-trailing-vowels](https://github.com/Bhushanmore25/Leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3905-partition-string](https://github.com/Bhushanmore25/Leetcode/tree/master/3905-partition-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Bhushanmore25/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3912-valid-elements-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Bhushanmore25/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Bhushanmore25/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Bhushanmore25/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Bhushanmore25/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Bhushanmore25/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Stack
 |  |
 | ------- |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3779-eat-pizzas](https://github.com/Bhushanmore25/Leetcode/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhushanmore25/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Bhushanmore25/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Simulation
 |  |
 | ------- |
