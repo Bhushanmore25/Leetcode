@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Bhushanmore25/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Bhushanmore25/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1078,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Bhushanmore25/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Bhushanmore25/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Bhushanmore25/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -1736,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhushanmore25/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Bhushanmore25/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
 |  |
 | ------- |
