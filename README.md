@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Bhushanmore25/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3912-valid-elements-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Bhushanmore25/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bhushanmore25/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Two Pointers
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhushanmore25/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
