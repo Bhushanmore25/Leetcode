@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Bhushanmore25/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/Bhushanmore25/Leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Bhushanmore25/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Bhushanmore25/Leetcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Bhushanmore25/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhushanmore25/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Bhushanmore25/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Bhushanmore25/Leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Bhushanmore25/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Bhushanmore25/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhushanmore25/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Bhushanmore25/Leetcode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Bhushanmore25/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Bhushanmore25/Leetcode/tree/master/0044-wildcard-matching) |
+| [0224-basic-calculator](https://github.com/Bhushanmore25/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Bhushanmore25/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1013-fibonacci-number) |
