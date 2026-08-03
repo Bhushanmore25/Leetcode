@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/Bhushanmore25/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0840-magic-squares-in-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Bhushanmore25/Leetcode/tree/master/0854-making-a-large-island) |
+| [0877-stone-game](https://github.com/Bhushanmore25/Leetcode/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/Bhushanmore25/Leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Bhushanmore25/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Bhushanmore25/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/Bhushanmore25/Leetcode/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/Bhushanmore25/Leetcode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1013-fibonacci-number) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Bhushanmore25/Leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Bhushanmore25/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Bhushanmore25/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Bhushanmore25/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhushanmore25/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -1732,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Bhushanmore25/Leetcode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/Bhushanmore25/Leetcode/tree/master/1086-divisor-game) |
 ## Quickselect
 |  |
