@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Bhushanmore25/Leetcode/tree/master/2951-find-the-peaks) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhushanmore25/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Bhushanmore25/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -960,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-count-zero-request-servers](https://github.com/Bhushanmore25/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bhushanmore25/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhushanmore25/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Bhushanmore25/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2833-count-zero-request-servers](https://github.com/Bhushanmore25/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bhushanmore25/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
