@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Bhushanmore25/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Bhushanmore25/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Bhushanmore25/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Bhushanmore25/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhushanmore25/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhushanmore25/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0202-happy-number) |
@@ -1146,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Bhushanmore25/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Bhushanmore25/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Bhushanmore25/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -1508,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Bhushanmore25/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Bhushanmore25/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Bhushanmore25/Leetcode/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/Bhushanmore25/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Bhushanmore25/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0494-target-sum) |
