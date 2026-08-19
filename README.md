@@ -1890,4 +1890,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Bhushanmore25/Leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Bhushanmore25/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Bhushanmore25/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
