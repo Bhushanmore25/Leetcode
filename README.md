@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Bhushanmore25/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhushanmore25/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bhushanmore25/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Bhushanmore25/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhushanmore25/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Bhushanmore25/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2601-number-of-great-partitions](https://github.com/Bhushanmore25/Leetcode/tree/master/2601-number-of-great-partitions) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Bhushanmore25/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Bhushanmore25/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhushanmore25/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Bhushanmore25/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Bhushanmore25/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2591-frog-jump-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2681-put-marbles-in-bags](https://github.com/Bhushanmore25/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Bhushanmore25/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
