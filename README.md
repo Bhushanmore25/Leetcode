@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Bhushanmore25/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Bhushanmore25/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Bhushanmore25/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Bhushanmore25/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Bhushanmore25/Leetcode/tree/master/0263-ugly-number) |
@@ -1823,6 +1824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Bhushanmore25/Leetcode/tree/master/0223-rectangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Bhushanmore25/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Rolling Hash
