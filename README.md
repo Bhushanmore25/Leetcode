@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0912-sort-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Bhushanmore25/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Bhushanmore25/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0952-word-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Bhushanmore25/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Bhushanmore25/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Bhushanmore25/Leetcode/tree/master/0890-lemonade-change) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Bhushanmore25/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhushanmore25/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bhushanmore25/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0767-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Bhushanmore25/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0912-sort-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/0912-sort-an-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Bhushanmore25/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1122-relative-sort-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Bhushanmore25/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Bhushanmore25/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -1604,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0767-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/Bhushanmore25/Leetcode/tree/master/0829-subdomain-visit-count) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Bhushanmore25/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1160-letter-tile-possibilities](https://github.com/Bhushanmore25/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Bhushanmore25/Leetcode/tree/master/1364-tuple-with-same-product) |
