@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Bhushanmore25/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bhushanmore25/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
+| [4024-nearest-available-drone](https://github.com/Bhushanmore25/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1837,6 +1838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bhushanmore25/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4024-nearest-available-drone](https://github.com/Bhushanmore25/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Counting Sort
 |  |
 | ------- |
