@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3941-password-strength](https://github.com/Bhushanmore25/Leetcode/tree/master/3941-password-strength) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bhushanmore25/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bhushanmore25/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Trie
 |  |
 | ------- |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Bhushanmore25/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3908-valid-digit-number](https://github.com/Bhushanmore25/Leetcode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Bhushanmore25/Leetcode/tree/master/3945-digit-frequency-score) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bhushanmore25/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1834,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bhushanmore25/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Counting Sort
 |  |
 | ------- |
