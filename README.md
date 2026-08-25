@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bhushanmore25/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bhushanmore25/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4026-maximum-gap-between-stations](https://github.com/Bhushanmore25/Leetcode/tree/master/4026-maximum-gap-between-stations) |
 ## Trie
 |  |
 | ------- |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Bhushanmore25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4026-maximum-gap-between-stations](https://github.com/Bhushanmore25/Leetcode/tree/master/4026-maximum-gap-between-stations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bhushanmore25/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Bhushanmore25/Leetcode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4026-maximum-gap-between-stations](https://github.com/Bhushanmore25/Leetcode/tree/master/4026-maximum-gap-between-stations) |
 ## Simulation
 |  |
 | ------- |
