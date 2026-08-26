@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bhushanmore25/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Bhushanmore25/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhushanmore25/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Bhushanmore25/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhushanmore25/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1514,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Bhushanmore25/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2833-count-zero-request-servers](https://github.com/Bhushanmore25/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhushanmore25/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhushanmore25/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Bhushanmore25/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
