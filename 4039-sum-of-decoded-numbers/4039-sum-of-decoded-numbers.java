@@ -16,7 +16,7 @@ class Solution {
 
         return (int) ans;
     }
-
+    
     private long power(long base, long exp) {
         long res = 1;
         base %= MOD;
