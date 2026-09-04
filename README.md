@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Bhushanmore25/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Bhushanmore25/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Bhushanmore25/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3903-smallest-stable-index-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Bhushanmore25/Leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -1603,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Bhushanmore25/Leetcode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [3903-smallest-stable-index-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Interactive
 |  |
 | ------- |
