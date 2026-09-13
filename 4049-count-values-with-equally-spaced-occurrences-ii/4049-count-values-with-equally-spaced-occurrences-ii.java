@@ -18,7 +18,7 @@ class Solution {
             for(int i=1;i<li.size();i++)
             {
                 if((li.get(i)-li.get(i-1)) != dist) {
-                    flag=false;
+                    flag=!flag;
                     break;
                 }
             }
