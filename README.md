@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhushanmore25/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Bhushanmore25/Leetcode/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhushanmore25/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Bhushanmore25/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Bhushanmore25/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Bhushanmore25/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Bhushanmore25/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bhushanmore25/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhushanmore25/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhushanmore25/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bhushanmore25/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bhushanmore25/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1511,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhushanmore25/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Bhushanmore25/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhushanmore25/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1584,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bhushanmore25/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhushanmore25/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhushanmore25/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Bhushanmore25/Leetcode/tree/master/1895-largest-magic-square) |
