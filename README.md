@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhushanmore25/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/Bhushanmore25/Leetcode/tree/master/0768-partition-labels) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Bhushanmore25/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bhushanmore25/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Bhushanmore25/Leetcode/tree/master/0740-delete-and-earn) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Bhushanmore25/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Bhushanmore25/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Bhushanmore25/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Bhushanmore25/Leetcode/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Bhushanmore25/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Bhushanmore25/Leetcode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Bhushanmore25/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Bhushanmore25/Leetcode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bhushanmore25/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/Bhushanmore25/Leetcode/tree/master/0768-partition-labels) |
@@ -1945,6 +1949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhushanmore25/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhushanmore25/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Bhushanmore25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bhushanmore25/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bhushanmore25/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
