@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bhushanmore25/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [4024-nearest-available-drone](https://github.com/Bhushanmore25/Leetcode/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Bhushanmore25/Leetcode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Bhushanmore25/Leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3908-valid-digit-number](https://github.com/Bhushanmore25/Leetcode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Bhushanmore25/Leetcode/tree/master/3945-digit-frequency-score) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bhushanmore25/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Bhushanmore25/Leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Greedy
 |  |
 | ------- |
