@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4024-nearest-available-drone](https://github.com/Bhushanmore25/Leetcode/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Bhushanmore25/Leetcode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Bhushanmore25/Leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4062-transform-array-using-pair-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1667,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1086-divisor-game](https://github.com/Bhushanmore25/Leetcode/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bhushanmore25/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [4062-transform-array-using-pair-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 ## Graph
 |  |
 | ------- |
