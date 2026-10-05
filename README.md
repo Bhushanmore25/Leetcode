@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Bhushanmore25/Leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Bhushanmore25/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Bhushanmore25/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1064,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3941-password-strength](https://github.com/Bhushanmore25/Leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Bhushanmore25/Leetcode/tree/master/3945-digit-frequency-score) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Bhushanmore25/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Bhushanmore25/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -1671,6 +1673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Bhushanmore25/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3913-sort-vowels-by-frequency](https://github.com/Bhushanmore25/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Bhushanmore25/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Bhushanmore25/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Brainteaser
 |  |
 | ------- |
