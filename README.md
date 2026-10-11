@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Bhushanmore25/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Bhushanmore25/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhushanmore25/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/Bhushanmore25/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2833-count-zero-request-servers](https://github.com/Bhushanmore25/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Bhushanmore25/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1876,6 +1877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhushanmore25/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Bhushanmore25/Leetcode/tree/master/2083-three-divisors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Bhushanmore25/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Bhushanmore25/Leetcode/tree/master/2951-find-the-peaks) |
 | [2998-count-symmetric-integers](https://github.com/Bhushanmore25/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
