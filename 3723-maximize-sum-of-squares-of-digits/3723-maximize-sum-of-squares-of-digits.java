@@ -3,7 +3,7 @@ class Solution {
         if(num*9<sum) return "";
         StringBuilder s=new StringBuilder();
         // int curr=0;
-        while(s.length()!=num)
+        for(int i=0;i<num;i++)
         {
             if(sum>=9)
             {
