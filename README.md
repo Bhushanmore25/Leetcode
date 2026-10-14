@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Bhushanmore25/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Bhushanmore25/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Bhushanmore25/Leetcode/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhushanmore25/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Bhushanmore25/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bhushanmore25/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Bhushanmore25/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhushanmore25/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Bhushanmore25/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Bhushanmore25/Leetcode/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhushanmore25/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
